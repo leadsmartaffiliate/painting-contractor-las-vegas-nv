@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://painting-contractor-las-vegas-nv.netlify.app/sitemap.xml
